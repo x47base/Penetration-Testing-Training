@@ -1,6 +1,6 @@
 # Penetration-Testing-Training
 
-**Training Websites:**
+## Training Websites:
 
 - [m0unt41n](https://library.m0unt41n.ch/)
 - [HackTheBox](https://hackthebox.com/)
