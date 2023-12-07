@@ -8,15 +8,15 @@
 - [TryHackMe](https://tryhackme.com/)
 - [OverTheWire Wargames](https://overthewire.org/wargames/)
 
-**Training VMs:**
+## Training VMs:
 
 - [VulnHub](https://www.vulnhub.com/)
 
-**Cheat Sheets:**
+## Cheat Sheets:
 
 - Penetration Testing: [Orange Cyber Defense](https://orange-cyberdefense.github.io/ocd-mindmaps/img/pentest_ad_dark_2023_02.svg)
 - ARM Assembly Basics: [Azeria Labs](https://azeria-labs.com/assembly-basics-cheatsheet/)
 
-**Big Documentation with multiple areas:**
+## Big Documentation with multiple areas:
 
 - [HackTricks](https://book.hacktricks.xyz/)
