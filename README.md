@@ -7,6 +7,7 @@
 - [PicoCTF](https://play.picoctf.org/practice)
 - [TryHackMe](https://tryhackme.com/)
 - [OverTheWire Wargames](https://overthewire.org/wargames/)
+- [Root Me](https://www.root-me.org)
 
 ## Training VMs:
 
