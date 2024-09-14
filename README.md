@@ -20,4 +20,7 @@
 
 ## Big Documentation with multiple areas:
 
+- [CTF 101](https://ctf101.org/)
 - [HackTricks](https://book.hacktricks.xyz/)
+- [pentest-wiki](https://github.com/nixawk/pentest-wiki/tree/master)
+- [awesome-ctf-resources](https://github.com/devploit/awesome-ctf-resources)
